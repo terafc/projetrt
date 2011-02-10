@@ -1,0 +1,88 @@
+
+body
+{
+	background-color: #62 62 62;
+   width: 760px;
+   margin: auto ;
+   margin-top: 20px;
+   margin-bottom: 20px;    
+  
+}
+
+/*date*/
+#date
+{
+	font-size: x-large;
+	text-transform: bold ;
+	color: #C3B3B3;
+   font-family: Trebuchet MS, "Arial Black", "Times New Roman", Times, serif;
+   text-align: right;
+    width: 760px; */
+}
+
+/* L'en-tête */
+
+#en_tete
+{
+   width: 760px;
+   height:250px;
+   background-image: url("header.png");
+   background-repeat: no-repeat;
+   margin-bottom: 10px;
+}
+*/
+
+/* Le menu */
+
+#menu
+{
+   float: left;
+   width: 120px;
+   background-color: green;
+}
+
+.element_menu
+{
+   background-color: #626262;
+   background-image: url("image.png");
+   background-repeat: repeat-x;
+   
+   border: 2px solid black;
+   
+   margin-bottom: 20px;
+}
+
+
+/* Quelques effets sur les menus */
+
+
+.element_menu h3
+{    
+   color: #B3B3B3;
+   font-family: Trebuchet MS, "Arial Black", "Times New Roman", Times, serif;
+   text-align: center;
+}
+
+.element_menu ul
+{
+   list-style-image: url("images/puce.png");
+   padding: 0px;
+   padding-left: 20px;
+   margin: 0px;
+   margin-bottom: 5px;
+}
+
+.element_menu a
+{
+   color: #B3B3B3;
+}
+
+.element_menu a:hover
+{
+   background-color: #B3B3B3;
+   color: black;
+}
+
+
+/* Le corps de la page */
+

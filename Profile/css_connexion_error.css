@@ -1,0 +1,37 @@
+body
+{
+	background-color: #62 62 62;
+   width: 530px;
+   margin:auto; /* 20px de marge en haut et en bas, 5px à gauche et à droite */
+   color: black;
+   font-family: Trebuchet MS, "Arial Black", "Times New Roman", Times, serif;
+   text-align: center;
+   
+}
+
+#en_tete
+{
+   width: 760px;
+   height:250px;
+   background-image: url("pictures/Logo.png");
+   background-repeat: no-repeat;
+   margin-bottom: 10px;
+}
+
+
+#pied_de_page
+{  
+
+	top: 100px;
+   /*padding: 5px;
+   clear: both;
+*/
+   text-align: center;
+	
+   color: #B3B3B3;
+   background-color: #100100100;
+   background-image: url("images/motif.png");
+   background-repeat: repeat-x;
+   
+   border: 1px solid black;
+}

@@ -1,0 +1,63 @@
+#uplo
+{
+float: center;
+margin: 50px;
+  width: 760px; 
+
+}
+/*date*/
+#date
+{
+	font-size: x-large;
+	text-transform: bold ;
+	color: #B3B3B3;
+   font-family: Trebuchet MS, "Arial Black", "Times New Roman", Times, serif;
+   text-align: center;
+    width: 760px; 
+}
+body
+{
+	background-color: #62 62 62;
+   width: 650px;
+   height: 600px;
+   margin:auto; /* 20px de marge en haut et en bas, 5px à gauche et à droite */
+    /* background-image: url("pictures/r&t.png");
+   background-repeat: no-repeat;*/
+   
+}
+
+#en_tete
+{
+   width: 750px;
+   height:250px;
+   background-image: url("pictures/Logo.png");
+   background-repeat: no-repeat;
+   margin-bottom: 50px;
+}
+
+#errore_upload
+{
+	color: red;
+   font-family: Trebuchet MS, "Arial Black", "Times New Roman", Times, serif;
+   text-align: center;
+}
+
+#pied_de_page
+{  
+
+	top: 250px;
+   /*padding: 5px;
+   clear: both;
+*/
+   text-align: center;
+	
+   color: #B3B3B3;
+   background-color: #100100100;
+
+
+   width: 700px;
+
+   border: 1px solid black;
+}
+
+

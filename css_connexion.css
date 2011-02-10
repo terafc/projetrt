@@ -1,0 +1,44 @@
+body
+{
+	background-color: #62 62 62;
+   width: 540px;
+   margin:auto; /* 20px de marge en haut et en bas, 5px à gauche et à droite */
+    /* background-image: url("pictures/r&t.png");
+   background-repeat: no-repeat;*/
+   
+}
+
+#en_tete
+{
+   width: 750px;
+   height:250px;
+   background-image: url("pictures/Logo.png");
+   background-repeat: no-repeat;
+   margin-bottom: 50px;
+}
+
+#error
+{
+	color: red;
+   font-family: Trebuchet MS, "Arial Black", "Times New Roman", Times, serif;
+   text-align: center;
+}
+
+#pied_de_page
+{  
+
+	top: 250px;
+   /*padding: 5px;
+   clear: both;
+*/
+   text-align: center;
+	
+   color: #000000;
+   background-color: #100100100;
+
+
+   width: 750px;
+
+   border: 1px solid black;
+}
+
